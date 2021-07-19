@@ -6,12 +6,12 @@
   </p>
 </p>
 
-## About The Project
+## Sobre o projeto
 
 Crud basico de um projeto usando a estrutura do framework laravel como API Restfull no backend e ReactJS como provedor do frontend,
 O intuito é um sistema de criação de tarefas pré-relacionadas a um projeto, o intuito do mesmo é demonstrar meus conhecimentos em Laravel e ReactJS
 
-### Built With
+### Feito com
 
 Foram usados nesse projeto
 * [Laravel](https://laravel.com/)
